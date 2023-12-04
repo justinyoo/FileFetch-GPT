@@ -3,5 +3,7 @@ Custom chat GPT that answers questions from provided documents. Developed with R
 <br>
 <h3>Setup Guide</h3>
 1. Clone the project.<br>
-2. Update the OpenAI and FormRecognizer credentials in appsettings.json with your credentials.<br>
-3. Run the project.<br>
+2. Go to react.ui folder in the project and run "npm command" (to install frontend packages).<br>
+3. Don't forget to update the OpenAI and FormRecognizer credentials in appsettings.json with your credentials.<br>
+4. Run the project.<br>
+Enjoy!!!
