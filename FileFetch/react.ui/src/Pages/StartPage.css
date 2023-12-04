@@ -1,0 +1,24 @@
+﻿.mainPage {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+    .mainPage svg {
+        position: relative;
+        display: block;
+        width: calc(160% + 1.3px);
+        height: 400px;
+    }
+
+    .mainPage .shape-fill {
+        fill: #7F00FF;
+    }
+
+.font {
+    font-size: 70px;
+    color: #5f5c5c;
+}

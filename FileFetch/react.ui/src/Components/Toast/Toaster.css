@@ -1,0 +1,15 @@
+﻿.toaster {
+    position: fixed;
+    bottom: 100px;
+    right: 40px;
+    background-color: #ff6347;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .toaster.warning {
+        background-color: #ffd700;
+        color: #fff;
+    }
