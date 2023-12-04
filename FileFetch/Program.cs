@@ -39,7 +39,6 @@ app.UseRouting();
 app.UseCors("ReactPolicy");
 
 app.UseAuthorization();
-
 app.MapControllers();
 app.UseSpaStaticFiles();
 app.UseEndpoints(endpoints =>
